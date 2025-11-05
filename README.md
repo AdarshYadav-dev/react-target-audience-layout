@@ -2,7 +2,7 @@
 
 **Repository**: [adalink](https://github.com/AdarshYadav-dev/react-target-audience-layout.git)
 
-## 📋 Description  
+## Description  
 A React project built using Tailwind CSS, focusing on creating a modern, responsive layout with multiple sections: Navbar, content split (left + right), and more.  
 This project is **incomplete** and under active development. Additional UI features and functionality will be added soon.
 
@@ -15,7 +15,7 @@ This project is **incomplete** and under active development. Additional UI featu
 - `Section1` contains the Navbar and Page1Content (split layout)  
 - `Section2` is a placeholder for further content  
 
-## 🚀 Getting Started  
+## Getting Started  
 1. Clone the repo:  
    ```bash
    git clone https://github.com/AdarshYadav-dev/react-target-audience-layout.git
