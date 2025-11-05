@@ -6,7 +6,7 @@
 A React project built using Tailwind CSS, focusing on creating a modern, responsive layout with multiple sections: Navbar, content split (left + right), and more.  
 This project is **incomplete** and under active development. Additional UI features and functionality will be added soon.
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - React (functional components)  
 - Tailwind CSS for styling  
 - Remix Icon for iconography (`remixicon/fonts/remixicon.css`)  
